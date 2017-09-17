@@ -14,6 +14,7 @@ int main()
             {str[i]='b';}
             else if(str[i+1]=='b' || str[i-1]=='b')
                 {str[i]='a';
+hahaha
             }
         }
 
